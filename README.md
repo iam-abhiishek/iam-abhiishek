@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhishek
+- 👋 Hi, I’m @abhishek having 7.3 years of experience as a QA in banking domain
 - 👀 I’m interested in analysing the products and verifying the core functionality of it
 - 🌱 I’m currently learning automating the web and mobile application through piece of software codes
 - 💞️ I’m looking to collaborate on automating the software application
